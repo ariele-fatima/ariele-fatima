@@ -8,7 +8,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ariele-fatima-057579191/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariele-fatima-057579191/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariele-fatima-das-dores-057579191/">
   </a>
 </p>
 
