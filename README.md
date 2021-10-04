@@ -19,7 +19,6 @@
 </p>
 
 ---
-<br>
 
 ## 👩‍💻 Sobre mim
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Adoro programar e resolver problemas
@@ -28,10 +27,8 @@
 * <img width="16" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="" /> Minha linguagem preferida é C#
 * <img width="16" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="" /> Atualmente estou estudando JavaScript e boas práticas de programação
 * 🎸 Também amo música, toco violão e quero aprender a tocar teclado!
-<br>
 
-
-### Techs que fazem parte do meu dia-a-dia e que já tenho um certo domínio
+### Techs que fazem parte do meu dia-a-dia e/ou que já tenho um certo domínio
 
 <div style="display: inline_block">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
@@ -47,6 +44,7 @@
 </div>
 
 ---
+
 ### O que estou estudando atualmente
 <div style="display: inline_block">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
@@ -61,11 +59,14 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"></a>   
 </div>
 
 ---
-
 
 ## 💻GitHub Stats
 <div align="center">
@@ -78,9 +79,7 @@
 <p  align="center">
   <a  href="https://github.com/ariele-fatima/github-readme-activity-graph"><img  alt="Ariele Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=ariele-fatima&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&area=true&hide_border=true" /></a>
 </p>
-  
- <br>
-  
- ## 📖 Leitura
+    
+ ## 📖 Leitura atual
 
 **[Código limpo: Habilidades práticas do Agile Software - Edição Revisada | Robert C. Martin](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675/)**
