@@ -19,8 +19,9 @@
 </p>
 
 ---
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="130">
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim 
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Adoro programar e resolver problemas
 * 🌱 Amo desafios e aprender coisas novas
 * 👩‍🎓Sou formada em Ciência da Computação e estou fazendo Pós em Engenharia de Software
